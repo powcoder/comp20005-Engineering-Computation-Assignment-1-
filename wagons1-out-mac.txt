@@ -1,0 +1,29 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+S1,      wagon   1, tonnes=  100.4, %= 50.3
+S1,      wagon  19, tonnes=  130.2, %= 52.8
+S1,    whole train, tonnes= 1843.6, %= 53.3
+
+S2, consignment  1, tonnes=  379.5, %= 53.5
+S2,                 wagons=    1   2   3   4
+S2, consignment  2, tonnes=  410.1, %= 54.8
+S2,                 wagons=    5   6   7   8
+S2, consignment  3, tonnes=  514.8, %= 53.6
+S2,                 wagons=   14  15  16  17  18
+S2,   total dumped, tonnes=  539.2, %= 51.7
+S2,                 wagons=    9  10  11  12  13  19
+
+S3, consignment  1, tonnes=  379.5, %= 53.5
+S3,                 wagons=    1   2   3   4
+S3, consignment  2, tonnes=  410.1, %= 54.8
+S3,                 wagons=    5   6   7   8
+S3, consignment  3, tonnes=  409.0, %= 52.8
+S3,                 wagons=    9  10  11  13  14
+S3, consignment  4, tonnes=  439.7, %= 54.1
+S3,                 wagons=   15  16  17  18
+S3,   total dumped, tonnes=  205.3, %= 49.2
+S3,                 wagons=   12  19
+
+Ta daa!
